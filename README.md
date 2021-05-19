@@ -5,11 +5,16 @@ This collection contains images of Gilpin and Clear Creek County, CO, Idaho Spri
 Previous arrangement of the collection put together some images pertaining to mining and were placed into the first 436 numbers. These amount to a total of 446 glass negatives of various sizes. The mining photos were arranged into five groups. Group one are mines identifiable by name, consisting of both interior and exterior views of these mines; group two are exterior views of mines not identifiable by name; group three are interior views of mines not identifiable by name; group four are mining machinery and equipment; and group five is placer mining.
 ## Metadata
 ### Collection Name
+Lachlan McLean Photograph Collection
 ### Title
 ### Name
+[McLean, Lachlan, 1843-1929](http://id.worldcat.org/fast/49182)
 ### Resource Type
+[Still image](http://id.loc.gov/vocabulary/resourceTypes/img)
 ### Genre
+[Photographs](http://id.loc.gov/authorities/genreForms/gf2017027249)
 ### Date Created
+1872/1927
 ### Language
 ### Extent
 ### Form
