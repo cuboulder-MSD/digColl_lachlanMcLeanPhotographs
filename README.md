@@ -1,1 +1,1 @@
-# digColl_lachlanMcLeanPhotographs
+# Lachlan McLean Photograph Collection
