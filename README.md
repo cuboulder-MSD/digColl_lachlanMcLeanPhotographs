@@ -23,7 +23,7 @@ Dates range from 1872/1927 when McLean was an active photographer in Colorado.
 ### Abstract
 Brief description about the content of the photograph.
 ### Subject Topic
-Common subject headings include: [Mines and mineral resources](http://id.worldcat.org/fast/1022541), [Mine buildings](http://id.worldcat.org/fast/1022019), [Tunnels](http://id.worldcat.org/fast/1158996), [Miners](http://id.worldcat.org/fast/1022485), [Railroad tracks](http://id.worldcat.org/fast/1431160), [Photography, Stereoscopic](http://id.worldcat.org/fast/1062006), [National parks and reserves](http://id.worldcat.org/fast/1033642), Rock formations(local term) 
+Common subject headings include: [Mines and mineral resources](http://id.worldcat.org/fast/1022541), [Mine buildings](http://id.worldcat.org/fast/1022019), [Tunnels](http://id.worldcat.org/fast/1158996), [Miners](http://id.worldcat.org/fast/1022485), [Railroad tracks](http://id.worldcat.org/fast/1431160), [Photography, Stereoscopic](http://id.worldcat.org/fast/1062006), [National parks and reserves](http://id.worldcat.org/fast/1033642), Rock formations (local term) 
 ### Subject Geographic
 Most of the mines and landscapes captured in this collection take place throughout Clear Creek County, Colorado.
 ### Identifier
