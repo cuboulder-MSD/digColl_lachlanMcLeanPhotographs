@@ -28,7 +28,7 @@ Common subject headings include: [Mines and mineral resources](http://id.worldca
 ### Subject Geographic
 Most of the mines and landscapes captured in this collection take place throughout Clear Creek County, Colorado.
 ### Identifier
-According to arrangement details from [Rare and Distinctive Collections](https://archives.colorado.edu/repositories/2/resources/189): Previous arrangement of the collection put together some images pertaining to mining were placed into the first 436 numbers. These amount to a total of 446 glass negatives of various sizes. The mining photos were arranged into five groups. Group one are mines identifiable by name, consisting of both interior and exterior views of these mines; group two are exterior views of mines not identifiable by name; group three are interior views of mines not identifiable by name; group four are mining machinery and equipment; and group five is placer mining.
+According to arrangement details from [Rare and Distinctive Collections](https://archives.colorado.edu/repositories/2/resources/189): Previous arrangement of the collection put together some images pertaining to mining and were placed into the first 436 numbers. These amount to a total of 446 glass negatives of various sizes. The mining photos were arranged into five groups. Group one are mines identifiable by name, consisting of both interior and exterior views of these mines; group two are exterior views of mines not identifiable by name; group three are interior views of mines not identifiable by name; group four are mining machinery and equipment; and group five is placer mining.
 
 Identifier example: narv_mcLean_001_d.tif
 ### Physical Location
