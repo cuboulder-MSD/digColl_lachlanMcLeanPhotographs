@@ -14,11 +14,15 @@ Lachlan McLean Photograph Collection
 ### Genre
 [Photographs](http://id.loc.gov/authorities/genreForms/gf2017027249)
 ### Date Created
-1872/1927
+Dates range from 1872/1927 when McLean was an active photographer in Colorado.
 ### Language
+[English](http://id.loc.gov/vocabulary/iso639-2/eng)
 ### Extent
+1 glass plate negative
 ### Form
+[glass plate negatives](http://vocab.getty.edu/page/aat/300393160); [black-and-white photographs](http://vocab.getty.edu/page/aat/300128347)
 ### Abstract
+Brief description about the photograph.
 ### Subject Topic
 ### Subject Geographic
 ### Identifier
