@@ -5,6 +5,7 @@ This collection contains images of Gilpin and Clear Creek County, CO, Idaho Spri
 ### Collection Name
 Lachlan McLean Photograph Collection
 ### Title
+Titles come from the captions provided on the negatives by McLean. If a caption was not available, a title was created by the cataloger.
 ### Name
 [McLean, Lachlan, 1843-1929](http://id.worldcat.org/fast/49182)
 ### Resource Type
